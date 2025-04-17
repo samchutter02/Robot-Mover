@@ -7,7 +7,8 @@ A C++ console application to simulate multiple robots moving on a 2D grid.
 - Start/stop robots and track distances.
 
 ## Sample Output
-`Welcome to the multi-robo mover.
+```plaintext
+Welcome to the multi-robo mover.
 How many robots would you like to track?
 
 3
@@ -46,9 +47,7 @@ M - Move
 D - Distance
 Q - Quit
 
-d
-
-sam  1
+d 1
 wes  0
 bob  0
 
@@ -57,4 +56,4 @@ M - Move
 D - Distance
 Q - Quit
 
-Q`
+Q
