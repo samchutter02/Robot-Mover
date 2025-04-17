@@ -9,8 +9,11 @@ A C++ console application to simulate multiple robots moving on a 2D grid.
 ## Sample Output
 Welcome to the multi-robo mover.
 How many robots would you like to track?
+
 3
+
 Enter the names of the Robots.
+
 sam
 wes
 bob
@@ -20,17 +23,20 @@ Enter 'R or r' to rename a robot.
 Enter 'D or d' to display the distance each robot has moved.
 Enter 'U or u' to update RobotList
 Enter 'Q or q' to quit the program
+
 m
 
 Enter robot name to move
 
 sam
+
 Enter the direction you want to move the robot.
 'U or u' to move up.
 'D or d' to move down.
 'R or r' to move right.
 'L or l' to move left.
 'S or s' to stop or start moving.
+
 u
 
 sam's position is 0, 1
@@ -39,6 +45,7 @@ Enter another command:
 M - Move
 D - Distance
 Q - Quit
+
 d
 
 sam  1
@@ -49,3 +56,5 @@ Enter another command:
 M - Move
 D - Distance
 Q - Quit
+
+Q
